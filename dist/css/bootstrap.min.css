@@ -2851,13 +2851,13 @@ textarea.form-control-lg {
 
 .btn-primary {
     color: #fff;
-    background-color: green;
+    background-color: limegreen;
     border-color: green;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #2d50d6;
+    background-color: limegreen;
     border-color: #2a4bca
 }
 
@@ -2870,7 +2870,7 @@ textarea.form-control-lg {
 
 .btn-check:checked+.btn-primary,.btn-check:active+.btn-primary,.btn-primary:active,.btn-primary.active,.show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #2a4bca;
+    background-color: limegreen;
     border-color: #2847bd
 }
 
@@ -7717,7 +7717,7 @@ textarea.form-control-lg {
 }
 
 .text-primary {
-    color: Green !important;
+    color: Limegreen !important;
 }
 
 .text-secondary {
@@ -7773,7 +7773,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-    background-color: Green !important;
+    background-color: Limegreen !important;
 }
 
 .bg-secondary {
@@ -7801,7 +7801,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-    background-color: Green !important;
+    background-color: limegreen !important;
 }
 
 .bg-body {

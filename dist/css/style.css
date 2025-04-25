@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: Green;
+    --primary: limegreen;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
@@ -238,7 +238,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(Green, Green), url(../img/bg.png);
+    background: linear-gradient(limegreen, limegreen), url(../img/bg.png);
     z-index: -1;
 }
 
@@ -529,7 +529,7 @@ h6,
 
 .copyright {
     color: var(--light);
-    background: green;
+    background: limegreen;
 }
 
 .copyright a {
