@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: limegreen;
+    --primary: black;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
@@ -238,7 +238,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(limegreen, limegreen), url(../img/bg.png);
+    background: linear-gradient(Black, Black), url(../img/bg.png);
     z-index: -1;
 }
 
@@ -266,7 +266,7 @@ h6,
 
 .service .nav .nav-link.active {
     border-color: var(--primary) !important;
-    background: var(--primary);
+    background: black;
 }
 
 .service .nav .nav-link.active h5 {
@@ -529,7 +529,7 @@ h6,
 
 .copyright {
     color: var(--light);
-    background: limegreen;
+    background: black;
 }
 
 .copyright a {

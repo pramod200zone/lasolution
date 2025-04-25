@@ -47,7 +47,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: green;
+    color: black;
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0,0,0,0)
@@ -194,7 +194,7 @@ sup {
 }
 
 a {
-    color: green;
+    color: black;
     text-decoration: none
 }
 
@@ -2851,7 +2851,7 @@ textarea.form-control-lg {
 
 .btn-primary {
     color: #fff;
-    background-color: limegreen;
+    background-color: black;
     border-color: green;
 }
 
@@ -3703,7 +3703,7 @@ textarea.form-control-lg {
 .dropdown-item.active,.dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: limegreen;
+    background-color: black;
 }
 
 .dropdown-item.disabled,.dropdown-item:disabled {
@@ -7717,7 +7717,7 @@ textarea.form-control-lg {
 }
 
 .text-primary {
-    color: Limegreen !important;
+    color: Black !important;
 }
 
 .text-secondary {
@@ -7773,7 +7773,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-    background-color: Limegreen !important;
+    background-color: Black!important;
 }
 
 .bg-secondary {
@@ -7801,7 +7801,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-    background-color: limegreen !important;
+    background-color: Black!important;
 }
 
 .bg-body {
