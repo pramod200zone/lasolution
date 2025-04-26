@@ -3864,7 +3864,7 @@ textarea.form-control-lg {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: green;
+    color: black;
     transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out
 }
 
@@ -3875,7 +3875,7 @@ textarea.form-control-lg {
 }
 
 .nav-link:hover,.nav-link:focus {
-    color: #2a4bca
+    color: black;
 }
 
 .nav-link.disabled {
@@ -3908,7 +3908,7 @@ textarea.form-control-lg {
 }
 
 .nav-tabs .nav-link.active,.nav-tabs .nav-item.show .nav-link {
-    color: green;
+    color: black;
     background-color: #fff;
     border-color: #dee2e6 #dee2e6 #fff
 }
