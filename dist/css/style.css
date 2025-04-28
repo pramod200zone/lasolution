@@ -522,7 +522,7 @@ h6,
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--primary);
+    color: white;
     letter-spacing: 1px;
     box-shadow: none;
 }
